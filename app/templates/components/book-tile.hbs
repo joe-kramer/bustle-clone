@@ -1,0 +1,11 @@
+<div class="row">
+  <div class="col-md-6">
+    <img src={{book.image}} alt={{book.title}}>
+  </div>
+  <div class="col-md-6">
+    <p>{{book.summary}}</p>
+    <br>
+    <p>By: {{book.author}}</p>
+    {{#link-to "book-info" book.id}}Click for more info{{/link-to}}
+  </div>
+</div>

@@ -1,0 +1,20 @@
+{ "books": [{
+    "id": 1,
+    "author": "Joe Kramer",
+    "title": "Game of Thrones",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at porta augue. Nullam at arcu tortor. Donec velit erat, gravida eu gravida ac, convallis ac lacus. Cras venenatis euismod mauris non consequat. Aliquam ac pharetra elit. Fusce dignissim tellus nec luctus ultrices. Suspendisse aliquam vitae odio et tempor. Aliquam erat volutpat. Vivamus non turpis justo. Praesent lacinia iaculis elit laoreet facilisis. Pellentesque maximus tristique enim. Vivamus sed urna quis dui faucibus gravida sodales eget mi. Sed tincidunt vestibulum dui, non faucibus ipsum ornare quis. Mauris tempus quam eu metus fringilla, sit amet mattis orci tincidunt.",
+    "image": "https://cdn.waterstones.com/bookjackets/large/9780/0074/9780007448036.jpg"
+  }, {
+    "id": 2,
+    "author": "JK Rowling",
+    "title": "Harry Potter",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at porta augue. Nullam at arcu tortor. Donec velit erat, gravida eu gravida ac, convallis ac lacus. Cras venenatis euismod mauris non consequat. Aliquam ac pharetra elit. Fusce dignissim tellus nec luctus ultrices. Suspendisse aliquam vitae odio et tempor. Aliquam erat volutpat. Vivamus non turpis justo. Praesent lacinia iaculis elit laoreet facilisis. Pellentesque maximus tristique enim. Vivamus sed urna quis dui faucibus gravida sodales eget mi. Sed tincidunt vestibulum dui, non faucibus ipsum ornare quis. Mauris tempus quam eu metus fringilla, sit amet mattis orci tincidunt.",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51NbOxBO%2BBL._SX346_BO1,204,203,200_.jpg"
+  }, {
+    "id": 3,
+    "author": "JRR Tolkien",
+    "title": "The Hobbit",
+    "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque at porta augue. Nullam at arcu tortor. Donec velit erat, gravida eu gravida ac, convallis ac lacus. Cras venenatis euismod mauris non consequat. Aliquam ac pharetra elit. Fusce dignissim tellus nec luctus ultrices. Suspendisse aliquam vitae odio et tempor. Aliquam erat volutpat. Vivamus non turpis justo. Praesent lacinia iaculis elit laoreet facilisis. Pellentesque maximus tristique enim. Vivamus sed urna quis dui faucibus gravida sodales eget mi. Sed tincidunt vestibulum dui, non faucibus ipsum ornare quis. Mauris tempus quam eu metus fringilla, sit amet mattis orci tincidunt.",
+    "image": "https://upload.wikimedia.org/wikipedia/en/3/30/Hobbit_cover.JPG"
+  }]
+}

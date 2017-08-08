@@ -7,6 +7,8 @@ const Router = Ember.Router.extend({
 });
 
 Router.map(function() {
+  this.route('admin');
+  this.route('book-info', {path: '/book-info/:book_id'});
 });
 
 export default Router;
