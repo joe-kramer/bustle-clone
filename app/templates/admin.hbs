@@ -1,1 +1,25 @@
 <h2>Add a book to the site:</h2>
+
+<form>
+  <div class="form-group">
+    <label for="author">Author</label>
+    {{input value=author id="author"}}
+  </div>
+
+  <div class="form-group">
+    <label for="title">Title</label>
+    {{input value=title id="title"}}
+  </div>
+
+  <div class="form-group">
+    <label for="summary">Summary</label>
+    {{input value=summary id="summary"}}
+  </div>
+
+  <div class="form-group">
+    <label for="image">Image url</label>
+    {{input value=image id="image"}}
+  </div>
+
+  <button {{action 'saveNewBook'}}>Save</button>
+</form>

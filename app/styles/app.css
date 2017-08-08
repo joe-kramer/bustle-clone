@@ -1,0 +1,19 @@
+.tile {
+  width: 80%;
+  height: 300px;
+  border: 1px solid black;
+  align: center;
+  margin-bottom: 100px;
+  position: relative;
+  left: 10%;
+}
+
+img {
+  height: 300px;
+
+}
+
+h1 {
+  text-align: center;
+  margin-bottom: 50px;
+}
